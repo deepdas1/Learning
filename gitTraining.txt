@@ -1,0 +1,15 @@
+GITHUB
+git clone "url"
+git add file name
+git commit
+git push
+git status
+git branch
+git checkout
+git stash
+git stash apply
+git diff
+git add .
+git status
+git log
+git branch -D branch name
